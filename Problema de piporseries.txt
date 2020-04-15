@@ -1,9 +1,0 @@
-El problema de que no funcionara el programa es que al utilizar el fork()
-los procesos hijos tienen una memoria diferente a la del padre, con lo cual
-las variables globales creadas por el padre solo las tiene el y no el hijo. 
-Este problema no permite tener los datos compartidos que genera cada proceso
-sino que cada proceso tiene su propia informacion, inaccesible para otros procesos
-
-Esto se soluciona mediante la creacion de una seccion compartida de la memoria
-con el metodo shmget y shmat, a esta seccion si pueden acceder todos los procesos
-mediante un puntero.
