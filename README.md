@@ -1,4 +1,3 @@
-# Sistemas-operativos
-Todas las tareas de el curso sistemas operativos
-El semaforo ya esta terminado y listo para revisar
-El piporseries ya esta terminado y listo para revisar
+# Proyecto integrador
+Todas las tareas de el curso proyecto integrador de redes y sistemas operativos
+
