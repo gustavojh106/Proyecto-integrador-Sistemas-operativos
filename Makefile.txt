@@ -1,0 +1,7 @@
+pruebaSemaforo: Semaforo.o pruebaSemaforo.cpp
+	g++ -Wall -g semaforo.o pruebaSemaforo.cpp
+Semaforo.o: Semaforo.cpp Semaforo.h
+	g++ -c Semaforo.cpp
+.PHONY: clean
+clean:
+	rm -rf *.o
