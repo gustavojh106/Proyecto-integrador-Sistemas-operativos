@@ -11,7 +11,9 @@ Para compilar y ejecutar el "recibirConClases":
 Para compilar y ejecutar el "piporseries" con buzones:
 	make piporseries
 	./piporseries
-
+Para compilar y ejecutar el "piporseries" con memoria compartida:
+	make piporseriesMC
+	./piporseriesMC
 
 
 
