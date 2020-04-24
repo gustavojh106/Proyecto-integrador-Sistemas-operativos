@@ -1,0 +1,20 @@
+Para realizar las pruebas de los programas:
+
+Para compilar y ejecutar el "enviarConClases": 
+	make enviar
+	./enviar
+
+Para compilar y ejecutar el "recibirConClases":
+	make recibir
+	./recibir
+
+Para compilar y ejecutar el "piporseries" con buzones:
+	make piporseries
+	./piporseries
+
+
+
+
+NOTA: Para que el "recibir" funcione tiene que compilarse y correr el "enviar"
+ya que de otra manera no habria mensajes que recibir con lo cual el "recibir"
+no hace nada.
