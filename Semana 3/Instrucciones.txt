@@ -1,0 +1,9 @@
+Para compilar la prueba con ipv6:
+	make prueba6
+Para ejecutar la prueba con ipv6:
+	./prueba6
+
+Para compilar la prueba con ipv4:
+	make prueba4
+Para ejecutar la prueba con ipv4:
+	./prueba4
