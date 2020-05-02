@@ -7,3 +7,5 @@ Para compilar la prueba con ipv4:
 	make prueba4
 Para ejecutar la prueba con ipv4:
 	./prueba4
+
+GUSTAVO JIMÉNEZ HERNÁNDEZ  B84060
