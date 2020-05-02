@@ -9,7 +9,7 @@
 #ifndef Socket_h
 #define Socket_h
 #include <netinet/in.h>
-#include <string.h
+#include <string.h>
 #include <stdlib.h>
 
 class Socket{
