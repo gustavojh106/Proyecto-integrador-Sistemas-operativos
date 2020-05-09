@@ -1,0 +1,10 @@
+Para compilar el servidor:
+	make server
+Para correr el server:
+	./server
+
+
+Para compilar el cliente:
+	make cliente
+Para correr el cliente:
+	./cliente
