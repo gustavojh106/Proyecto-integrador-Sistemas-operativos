@@ -1,0 +1,22 @@
+ESTUDIANTE:
+	Gustavo Jimenez Hernandez	B84060
+
+INSTRUCCIONES:
+	Para compilar, abrir una terminal dentro de esta carpeta
+	ejecutar el comando "make monos"
+	Para ejecutar el programa: "./monos N K J"
+
+CASOS PRUEBA:
+	En la imagen PRUEBA 1, se muestra una prueba de 3 monos
+	que van hacia una misma direccion, con un J=1 y un K=1
+	
+
+	En la imagen PRUEBA 2, se muestra una prueba de 3 monos,
+	dos de ellos van hacia la izquierda y el otro hacia la derecha
+	
+	En las imagenes 3.1 y 3.2 se muestra la ejecucion de un mismo programa
+	con 6 monos, K = 2, J = 1
+
+NOTA:
+	Los casos con 2 monos no funcionan si imprimen: HILO: n
+	siendo "n" ya sea dos numeros menores a 50
