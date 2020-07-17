@@ -1,0 +1,14 @@
+Gustavo Jimenez Hernandez	B84060
+
+EJERCICIO B:
+	
+	COMPILAR:
+	g++ -o prueba ejercicioB.cpp -pthread
+	EJECUTAR:
+	./prueba
+
+EJERCICIO C:
+	COMPILAR:
+	g++ -o prueba2 ejercicioC.cpp -lpthread
+	EJECUTAR:
+	./prueba2
